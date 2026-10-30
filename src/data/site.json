@@ -1,0 +1,769 @@
+{
+  "school": {
+    "name": "Sacred Heart Sr. Sec. School",
+    "shortName": "Sacred Heart School",
+    "motto": "Vidya Dadati Vinayam",
+    "mottoTranslation": "Knowledge bestows humility",
+    "tagline": "If you can dream it, you can do it.",
+    "established": "April 1, 2007",
+    "phone": "+919792493858",
+    "phoneDisplay": "9792493858",
+    "email": "shsnic@gmail.com",
+    "address": "Mandi Road, Nichlaul, Maharajganj (U.P.), 273304",
+    "addressShort": "Mandi Road, Maharajganj, U.P.",
+    "whatsapp": "919792493858",
+    "logo": "https://sacredheartschool.org.in/wp-content/uploads/2022/07/SACRED-HEART-SR.-SEC.-SCHOOL-2.png",
+    "heroImage": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/DSC_8030-scaled-1.jpg",
+    "campusImage": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-20.22.51_6108b5c3-e1747734903665.jpg",
+    "yearsLegacy": 19,
+    "social": {
+      "instagram": "https://www.instagram.com/p/DJicFIIpHfg/?utm_source=ig_web_copy_link",
+      "facebook": "https://www.facebook.com/shsssnic",
+      "youtube": "https://www.youtube.com/@shsssnic"
+    }
+  },
+  "stats": [
+    {
+      "label": "Years of Legacy",
+      "value": "19+"
+    },
+    {
+      "label": "Faculty Members",
+      "value": "45+"
+    },
+    {
+      "label": "Classrooms",
+      "value": "30+"
+    },
+    {
+      "label": "Students",
+      "value": "800+"
+    }
+  ],
+  "highlights": [
+    {
+      "eyebrow": "Best",
+      "title": "Experienced Faculty",
+      "icon": "graduation"
+    },
+    {
+      "eyebrow": "Diverse",
+      "title": "Sports & Extracurriculars",
+      "icon": "sports"
+    },
+    {
+      "eyebrow": "Focus on",
+      "title": "Discipline & Values",
+      "icon": "values"
+    }
+  ],
+  "about": {
+    "welcomeEyebrow": "Welcome to",
+    "title": "Sacred Heart School",
+    "subtitle": "Established April 1, 2007 | Katra Chauraha, Nichlaul",
+    "body": "Greeting and welcome to the Sacred Heart Senior Secondary School of Katra Chauraha U.P. on the way of Mandi Road Nichlaul Maharajganj. This school was established on 1st of April 2007 with an aim to provide holistic development to individual students. The school is committed to create an ambience for nurturing innovation, creativity and excellence. Our mission is to inculcate core values and discipline so that students become responsible, aware, humble yet confident individuals. We always believe in learning by doing.",
+    "bullets": [
+      "Strong foundation for future success",
+      "Personalized attention and small class sizes"
+    ]
+  },
+  "academics": [
+    {
+      "title": "5 Years Fundamentals",
+      "description": "Early years focused on curiosity, literacy, numeracy, and joyful learning habits.",
+      "image": "https://sacredheartschool.org.in/wp-content/uploads/2026/03/homenur-e1774771740265.jpg",
+      "years": "5 Years"
+    },
+    {
+      "title": "3 Years Preparatory",
+      "description": "Building confidence, communication, and foundational academic skills.",
+      "image": "https://sacredheartschool.org.in/wp-content/uploads/2026/03/homepri-e1774771903881.jpg",
+      "years": "3 Years"
+    },
+    {
+      "title": "3 Years Middle",
+      "description": "Subject depth, critical thinking, and collaborative classroom culture.",
+      "image": "https://sacredheartschool.org.in/wp-content/uploads/2026/03/homesec-e1774772275375.jpg",
+      "years": "3 Years"
+    },
+    {
+      "title": "4 Years Secondary",
+      "description": "Board readiness, career guidance, and leadership for senior students.",
+      "image": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/B-Block2.jpeg",
+      "years": "4 Years"
+    }
+  ],
+  "facilities": [
+    {
+      "title": "Sports",
+      "description": "Grounds and coaching for physical fitness and team spirit.",
+      "icon": "sports"
+    },
+    {
+      "title": "Information Technology",
+      "description": "Computer labs and digital learning resources for every stage.",
+      "icon": "tech"
+    },
+    {
+      "title": "School Web",
+      "description": "Connected campus communication for parents and students.",
+      "icon": "web"
+    },
+    {
+      "title": "Transportation",
+      "description": "Safe school buses covering Mandi Road and nearby routes.",
+      "icon": "bus"
+    },
+    {
+      "title": "Security",
+      "description": "Campus safety protocols and supervised school environment.",
+      "icon": "security"
+    },
+    {
+      "title": "Ladies Club",
+      "description": "Parent engagement and community activities for families.",
+      "icon": "club"
+    },
+    {
+      "title": "Personality Development",
+      "description": "Soft skills, confidence, and values-based mentoring.",
+      "icon": "person"
+    },
+    {
+      "title": "Eco-Club",
+      "description": "Green habits, awareness drives, and campus care.",
+      "icon": "eco"
+    },
+    {
+      "title": "Road Learning",
+      "description": "Practical exposure beyond the classroom.",
+      "icon": "road"
+    },
+    {
+      "title": "Campus Facility",
+      "description": "Spacious blocks, playgrounds, and learning spaces.",
+      "icon": "campus"
+    },
+    {
+      "title": "Laboratories",
+      "description": "Science and practical labs for hands-on discovery.",
+      "icon": "lab"
+    },
+    {
+      "title": "Co-curricular Activities",
+      "description": "Arts, clubs, and events that shape well-rounded students.",
+      "icon": "activity"
+    }
+  ],
+  "campusHighlights": [
+    {
+      "title": "Holistic Growth",
+      "description": "Academics balanced with sports, arts, and value education."
+    },
+    {
+      "title": "Safe Campus",
+      "description": "Secure grounds, transport, and attentive supervision every day."
+    },
+    {
+      "title": "Future Ready",
+      "description": "IT labs, labs, and guidance that prepare students for tomorrow."
+    },
+    {
+      "title": "Community Values",
+      "description": "Humility, discipline, and service at the heart of school life."
+    }
+  ],
+  "whyChoose": [
+    {
+      "title": "Quality Education",
+      "description": "Structured academics from fundamentals through secondary with caring mentors."
+    },
+    {
+      "title": "Dedicated Educators",
+      "description": "Experienced faculty committed to every child's growth and confidence."
+    },
+    {
+      "title": "Complete Campus",
+      "description": "Sports, labs, transport, clubs, and a nurturing learning environment."
+    }
+  ],
+  "leaders": [
+    {
+      "id": "leader-director",
+      "name": "G.N. Tripathi",
+      "role": "Director",
+      "message": "Welcome to the new year at Sacred Heart School! We are dedicated to creating a nurturing environment where every student can grow and succeed. Together, we will continue to foster values of respect, kindness, and excellence for a bright future.",
+      "quote": "At Sacred Heart, we cultivate not just academic excellence, but moral fortitude and global capability. We are dedicated to creating a sanctuary where every student can grow, thrive and succeed.",
+      "photo": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Capture.png"
+    },
+    {
+      "id": "leader-secretary",
+      "name": "Anand Tripathi",
+      "role": "Secretary",
+      "message": "Welcome to the new year at Sacred Heart School! As secretary, I'm here to support smooth communication and assist our school community. Together, we'll continue fostering an environment of respect, kindness, and excellence for a successful year.",
+      "quote": "Unified collaboration drives our educational ecosystem. Together with parents and educators, we maintain a highly supportive, high-standards environment where respect and kindness build tomorrow.",
+      "photo": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/22.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Sunita Chaudhary",
+      "text": "Sacred Hearts School has truly transformed my child's confidence and love for learning. The teachers are dedicated, nurturing, and always go beyond expectations."
+    },
+    {
+      "id": "2",
+      "name": "Rajendra Yadav",
+      "text": "Sacred Hearts provides an outstanding environment where my son thrives every day. The faculty is exceptional, caring, and deeply committed to each student's growth."
+    },
+    {
+      "id": "3",
+      "name": "Kavita Shrivastava",
+      "text": "Enrolling my daughter at Sacred Hearts was the best decision we made. The school builds strong values, discipline, and academic excellence in every child."
+    },
+    {
+      "id": "4",
+      "name": "Naman Tripathi",
+      "text": "My son has grown remarkably since joining Sacred Hearts School. The staff is warm, professional, and genuinely invested in shaping bright futures for every child."
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "JEE Mains Achievement",
+      "date": "2025-05-01",
+      "summary": "Three Sacred Heart students qualified JEE Mains and were honoured by the management."
+    },
+    {
+      "id": "2",
+      "title": "Annual Day Celebrations",
+      "date": "2025-12-15",
+      "summary": "Cultural performances, awards, and community gathering on campus."
+    },
+    {
+      "id": "3",
+      "title": "Sports Meet",
+      "date": "2025-11-10",
+      "summary": "Inter-house athletics and team games celebrating fitness and fair play."
+    }
+  ],
+  "documents": {
+    "about": [
+      {
+        "title": "Prospectus 2026-27",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Sacred-Heart-Prospectus-2025.pdf"
+      },
+      {
+        "title": "Fee Structure",
+        "href": "/fee-structure"
+      },
+      {
+        "title": "School Affiliation",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/cbse-affiliation-ext.pdf"
+      },
+      {
+        "title": "School NOC",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/NOC.pdf"
+      },
+      {
+        "title": "CBSE Manyata",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/cbse-manyata-2013.pdf"
+      }
+    ],
+    "tc": [
+      {
+        "title": "TC issued from 2026",
+        "href": "/tc/2026"
+      },
+      {
+        "title": "TC issued from 2025",
+        "href": "/tc/2025"
+      },
+      {
+        "title": "TC issued before 2025",
+        "href": "/tc/before-2025"
+      }
+    ],
+    "disclosure": [
+      {
+        "title": "Sacred-Heart-Prospectus-2025",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Sacred-Heart-Prospectus-2025.pdf"
+      },
+      {
+        "title": "Building Safety Certificate",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Building-Safety-Certificate.pdf"
+      },
+      {
+        "title": "CBSE 10+2 Manyatta",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/cbse-102-manyata.pdf"
+      },
+      {
+        "title": "CBSE Affiliation",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/cbse-affiliation-ext.pdf"
+      },
+      {
+        "title": "CBSE Manyatta 2013",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/cbse-manyata-2013.pdf"
+      },
+      {
+        "title": "NOC",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/NOC.pdf"
+      },
+      {
+        "title": "Udyam Registration Certificate",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Print-_-Udyam-Registration-Certificate-T.pdf"
+      },
+      {
+        "title": "Fire NOC",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/SACRED-HEART-SCHOOL-NICHLAUL-FIRE-NOC.pdf"
+      },
+      {
+        "title": "Society Reg",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/society-reg.pdf"
+      },
+      {
+        "title": "Society Renable",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/society-renable.pdf"
+      },
+      {
+        "title": "Valid Water",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Valid-Water.pdf"
+      }
+    ],
+    "academics": [
+      {
+        "title": "Fee Structure of the School",
+        "href": "/fee-structure"
+      },
+      {
+        "title": "Annual Academic Calendar",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Sacred-Heart-Prospectus-2025.pdf"
+      },
+      {
+        "title": "List of School Management Committee (SMC)",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Sacred-Heart-Prospectus-2025.pdf"
+      },
+      {
+        "title": "List of PTA Members",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Sacred-Heart-Prospectus-2025.pdf"
+      },
+      {
+        "title": "Last Three-Year Board Examination Result",
+        "href": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/Sacred-Heart-Prospectus-2025.pdf"
+      }
+    ]
+  },
+  "inquiries": [],
+  "media": [],
+  "gallery": [
+    {
+      "id": "f42b0062-7056-47d6-a487-39e51e36d1b9",
+      "title": "AB19 Innovations Eco-Tech Logo",
+      "src": "/uploads/e280d1ac-1493-4d4d-9da2-ed598abfa464.png",
+      "type": "image",
+      "caption": ""
+    },
+    {
+      "id": "g1",
+      "title": "Campus Building",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-20.21.14_a92f7770-1024x768.jpg",
+      "type": "image",
+      "caption": "Main campus view"
+    },
+    {
+      "id": "g2",
+      "title": "School Buses",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-20.22.51_6108b5c3-e1747734903665.jpg",
+      "type": "image",
+      "caption": "Safe transport for students"
+    },
+    {
+      "id": "g3",
+      "title": "Campus Block",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/B-Block2.jpeg",
+      "type": "image",
+      "caption": "Academic block"
+    },
+    {
+      "id": "g4",
+      "title": "Facilities",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/facilities-1.png",
+      "type": "image",
+      "caption": "Campus facilities"
+    }
+  ],
+  "videos": [
+    {
+      "id": "campus-drone",
+      "title": "Campus Aerial View",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/01/DJI_0023.mov",
+      "poster": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-20.21.14_a92f7770-1024x768.jpg",
+      "description": "Drone walkthrough of Sacred Heart Sr. Sec. School campus.",
+      "published": true
+    }
+  ],
+  "pages": [
+    {
+      "id": "page-activities",
+      "slug": "activities",
+      "title": "Activities",
+      "excerpt": "Sports, clubs, cultural programs and co-curricular life at Sacred Heart.",
+      "body": "Sacred Heart School offers a rich activity calendar — sports meets, eco-club drives, personality development sessions, cultural days, and community events. Students learn leadership, teamwork, and confidence beyond the classroom.\n\nParents are welcome to join Ladies Club initiatives and school celebrations throughout the year.",
+      "coverImage": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/facilities-2.png",
+      "published": true,
+      "showInNav": true,
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    }
+  ],
+  "homework": [
+    {
+      "id": "hw1",
+      "className": "Class 5",
+      "title": "Mathematics practice sheet",
+      "description": "Complete exercises 1–10 from the weekly worksheet.",
+      "date": "2026-10-28",
+      "fileUrl": ""
+    }
+  ],
+  "announcement": {
+    "enabled": true,
+    "title": "JEE Mains Success — Three Sacred Heart Students Qualify",
+    "subtitle": "Manager G.N. Tripathi honoured meritorious students. Tap continue to explore the school website.",
+    "image": "https://sacredheartschool.org.in/wp-content/uploads/2026/03/image-3-compressed-1.jpg"
+  },
+  "heroSlides": [
+    {
+      "id": "slide-1",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/DSC_8030-scaled-1.jpg",
+      "title": "Campus Life",
+      "caption": "Students and staff across our Mandi Road campus"
+    },
+    {
+      "id": "slide-2",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/A-Block-2.jpeg",
+      "title": "A Block",
+      "caption": "Academic spaces built for focused learning"
+    },
+    {
+      "id": "slide-3",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/B-Block2.jpeg",
+      "title": "B Block",
+      "caption": "Bright classrooms and school facilities"
+    },
+    {
+      "id": "slide-4",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2025/05/DSC_4548-scaled.jpg",
+      "title": "School Community",
+      "caption": "Moments that shape confidence and character"
+    },
+    {
+      "id": "slide-5",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2026/03/banner5.jpg",
+      "title": "Learning Together",
+      "caption": "A welcoming place for every age and grade"
+    },
+    {
+      "id": "slide-6",
+      "src": "https://sacredheartschool.org.in/wp-content/uploads/2026/03/banner6.jpeg",
+      "title": "Sacred Heart Spirit",
+      "caption": "Values, discipline, and joyful growth"
+    }
+  ],
+  "campusVideo": "https://sacredheartschool.org.in/wp-content/uploads/2025/01/DJI_0023.mov",
+  "disclosureInfo": {
+    "schoolName": "Sacred Heart Senior Secondary School",
+    "schoolCode": "71059",
+    "affiliationNo": "2131635",
+    "address": "Mandi Road, Nichlaul, Maharajganj (U.P.), 273304",
+    "principalName": "Mrs. Aarti Tripathi",
+    "principalQualification": "M.A, B.Ed",
+    "email": "shsnic@gmail.com",
+    "contact": "9792493858, 05523796962"
+  },
+  "fees": {
+    "academicYear": "2026-27",
+    "paymentMethods": "We accept payments via Online Banking, UPI, Credit/Debit Cards, and direct deposits at the school counter during working hours.",
+    "dueDates": "Installments are due by the 10th of April, July, October, and January. Late payments may attract a nominal fine as per school policy.",
+    "refundPolicy": "Fees once paid are non-refundable and non-transferable. Please ensure all details are correct before initiating a transaction.",
+    "classes": [
+      {
+        "id": "NUR",
+        "name": "Nursery",
+        "badge": "NUR",
+        "admissionFee": 3000,
+        "installment1": 4500,
+        "installment2": 3465,
+        "installment3": 3465,
+        "installment4": 3465,
+        "annualTotal": 14895,
+        "monthlyEquivalent": 1155
+      },
+      {
+        "id": "LKG",
+        "name": "LKG",
+        "badge": "LKG",
+        "admissionFee": 3000,
+        "installment1": 5100,
+        "installment2": 3555,
+        "installment3": 3555,
+        "installment4": 3555,
+        "annualTotal": 15765,
+        "monthlyEquivalent": 1185
+      },
+      {
+        "id": "UKG",
+        "name": "UKG",
+        "badge": "UKG",
+        "admissionFee": 3000,
+        "installment1": 5270,
+        "installment2": 3720,
+        "installment3": 3720,
+        "installment4": 3720,
+        "annualTotal": 16430,
+        "monthlyEquivalent": 1240
+      },
+      {
+        "id": "I",
+        "name": "Class I",
+        "badge": "I",
+        "admissionFee": 3500,
+        "installment1": 6000,
+        "installment2": 3900,
+        "installment3": 3900,
+        "installment4": 3900,
+        "annualTotal": 17700,
+        "monthlyEquivalent": 1300
+      },
+      {
+        "id": "II",
+        "name": "Class II",
+        "badge": "II",
+        "admissionFee": 3500,
+        "installment1": 6350,
+        "installment2": 4140,
+        "installment3": 4140,
+        "installment4": 4140,
+        "annualTotal": 18770,
+        "monthlyEquivalent": 1380
+      },
+      {
+        "id": "III",
+        "name": "Class III",
+        "badge": "III",
+        "admissionFee": 3500,
+        "installment1": 6690,
+        "installment2": 4245,
+        "installment3": 4245,
+        "installment4": 4245,
+        "annualTotal": 19425,
+        "monthlyEquivalent": 1415
+      },
+      {
+        "id": "IV",
+        "name": "Class IV",
+        "badge": "IV",
+        "admissionFee": 3500,
+        "installment1": 7090,
+        "installment2": 4470,
+        "installment3": 4470,
+        "installment4": 4470,
+        "annualTotal": 20500,
+        "monthlyEquivalent": 1490
+      },
+      {
+        "id": "V",
+        "name": "Class V",
+        "badge": "V",
+        "admissionFee": 3500,
+        "installment1": 7365,
+        "installment2": 4620,
+        "installment3": 4620,
+        "installment4": 4620,
+        "annualTotal": 21225,
+        "monthlyEquivalent": 1540
+      },
+      {
+        "id": "VI",
+        "name": "Class VI",
+        "badge": "VI",
+        "admissionFee": 4000,
+        "installment1": 7750,
+        "installment2": 5265,
+        "installment3": 5265,
+        "installment4": 5265,
+        "annualTotal": 23545,
+        "monthlyEquivalent": 1755
+      },
+      {
+        "id": "VII",
+        "name": "Class VII",
+        "badge": "VII",
+        "admissionFee": 4000,
+        "installment1": 8170,
+        "installment2": 5385,
+        "installment3": 5385,
+        "installment4": 5385,
+        "annualTotal": 24325,
+        "monthlyEquivalent": 1795
+      },
+      {
+        "id": "VIII",
+        "name": "Class VIII",
+        "badge": "VIII",
+        "admissionFee": 4000,
+        "installment1": 9130,
+        "installment2": 5955,
+        "installment3": 5955,
+        "installment4": 5955,
+        "annualTotal": 26995,
+        "monthlyEquivalent": 1985
+      },
+      {
+        "id": "IX",
+        "name": "Class IX",
+        "badge": "IX",
+        "admissionFee": 5000,
+        "installment1": 16950,
+        "installment2": 5985,
+        "installment3": 5985,
+        "installment4": 5985,
+        "annualTotal": 34905,
+        "monthlyEquivalent": 1995
+      },
+      {
+        "id": "X",
+        "name": "Class X",
+        "badge": "X",
+        "admissionFee": 0,
+        "installment1": 18450,
+        "installment2": 7515,
+        "installment3": 7515,
+        "installment4": 7515,
+        "annualTotal": 40995,
+        "monthlyEquivalent": 2505
+      },
+      {
+        "id": "XI(COM)",
+        "name": "Class XI (Commerce)",
+        "badge": "XI(COM)",
+        "admissionFee": 5500,
+        "installment1": 20450,
+        "installment2": 7155,
+        "installment3": 7155,
+        "installment4": 7155,
+        "annualTotal": 41915,
+        "monthlyEquivalent": 2385
+      },
+      {
+        "id": "XI(MATHS)",
+        "name": "Class XI (Maths)",
+        "badge": "XI(MATHS)",
+        "admissionFee": 5500,
+        "installment1": 20960,
+        "installment2": 7320,
+        "installment3": 7320,
+        "installment4": 7320,
+        "annualTotal": 42920,
+        "monthlyEquivalent": 2440
+      },
+      {
+        "id": "XI(BIO)",
+        "name": "Class XI (Biology)",
+        "badge": "XI(BIO)",
+        "admissionFee": 5500,
+        "installment1": 21470,
+        "installment2": 7485,
+        "installment3": 7485,
+        "installment4": 7485,
+        "annualTotal": 43925,
+        "monthlyEquivalent": 2495
+      },
+      {
+        "id": "XII(COM)",
+        "name": "Class XII (Commerce)",
+        "badge": "XII(COM)",
+        "admissionFee": 0,
+        "installment1": 22950,
+        "installment2": 9015,
+        "installment3": 9015,
+        "installment4": 9015,
+        "annualTotal": 49995,
+        "monthlyEquivalent": 3005
+      },
+      {
+        "id": "XII(MATHS)",
+        "name": "Class XII (Maths)",
+        "badge": "XII(MATHS)",
+        "admissionFee": 0,
+        "installment1": 23460,
+        "installment2": 9180,
+        "installment3": 9180,
+        "installment4": 9180,
+        "annualTotal": 51000,
+        "monthlyEquivalent": 3060
+      },
+      {
+        "id": "XII(BIO)",
+        "name": "Class XII (Biology)",
+        "badge": "XII(BIO)",
+        "admissionFee": 0,
+        "installment1": 24450,
+        "installment2": 9510,
+        "installment3": 9510,
+        "installment4": 9510,
+        "annualTotal": 52980,
+        "monthlyEquivalent": 3170
+      }
+    ]
+  },
+  "tcCertificates": {
+    "from2026": [],
+    "from2025": [],
+    "before2025": []
+  },
+  "admission": {
+    "sessionNote": "The new academic session starts in the first week of April. The school follows the CBSE curriculum. The medium of instruction is English at all levels.",
+    "courses": [
+      "Pre-primary: Hindi, English and Maths",
+      "Primary: Hindi, English, Mathematics, Env. Sciences, G.K., Art & Craft and Computer",
+      "Middle: Hindi, English, Mathematics, Social Studies, Sciences, Computer Technology and Sanskrit",
+      "Class IX to XII: Mathematics, Biology and Commerce streams"
+    ],
+    "procedure": [
+      "Admission is open to all irrespective of caste, creed, colour, religion or gender.",
+      "Parents seeking admission should procure prospectus with registration form from the school office on payment.",
+      "Duly filled registration form with required documents must be submitted by the given deadline.",
+      "Mere submission of registration form does not guarantee admission."
+    ],
+    "documentsRequired": [
+      "Passport size photograph of the candidate",
+      "Photograph of the parents",
+      "D.O.B certificate (for Pre-primary students)",
+      "T.C in original and marksheet of previous class (attested)",
+      "Photocopy of Aadhar Card",
+      "Photocopy of Local Guardian in case of boarding house admission"
+    ],
+    "feeNotes": [
+      "The school fee is submitted quarterly.",
+      "The admission fee is paid up front.",
+      "See the Fee Structure page for class-wise details."
+    ],
+    "withdrawals": [
+      "A student will be issued written transfer certificate on written intimation with one month notice / notice fee.",
+      "No certificate is given until all school dues are cleared and verified.",
+      "A student may be asked to leave on grounds of indiscipline, irregularity, misconduct, non-payment of fee, or unsatisfactory academics."
+    ],
+    "uniformNote": "At the commencement of each academic session parents arrange uniforms for their ward. Uniforms must follow school designs and shape."
+  },
+  "aboutExtended": {
+    "philosophy": "At Sacred Heart School, we believe that every child is unique and capable of achieving greatness. Our philosophy is centered on providing a holistic education that nurtures the intellectual, emotional, and spiritual development of each student. We are dedicated to creating a safe, inclusive, and supportive environment where curiosity, creativity, and critical thinking are encouraged.",
+    "mission": "At Sacred Heart School, our mission is to provide a nurturing and inclusive environment where every student is inspired to grow academically, socially, and spiritually. We are committed to fostering values of respect, kindness, and excellence, empowering our students to become responsible, compassionate, and confident individuals who will positively impact the world.",
+    "values": [
+      "RESPECT",
+      "EXCELLENCE",
+      "INTEGRITY",
+      "COMPASSION",
+      "FAITH"
+    ]
+  }
+}
